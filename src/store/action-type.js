@@ -1,0 +1,11 @@
+export const GET_RESTAURANTS='GET_RESTAURANTS';
+export const GET_INFO='GET_INFO';
+export const GET_LOCATION='GET_LOCATION';
+export const GET_ADDRESS='GET_ADDRESS';
+export const CHANGE_LANGUAGE='CHANGE_LANGUAGE';
+export const CHANGE_LOCALE='CHANGE_LOCALE';
+export const SET_PHOTO='SET_PHOTO';
+export const SET_BIRTHDAY='SET_BIRTHDAY';
+export const NEED_REFRESH='NEED_REFRESH';
+export const GLOBAL_LOADING='GLOBAL_LOADING';
+export const RE_GET='RE_GET';

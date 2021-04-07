@@ -1,0 +1,4848 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CommentListMap renders correctly 1`] = `
+Array [
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderBottomWidth": 0.5,
+          "borderColor": "#c9c9c9",
+          "flexDirection": "row",
+          "marginLeft": 16,
+          "paddingBottom": 13,
+          "paddingRight": 16,
+          "paddingTop": 13,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1566175981728image-46024325-f485-49fc-ae82-5af56100477c.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 3,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontSize": 17,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            30
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 13,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            08/19/19, 14:56
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "marginTop": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 14,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            评价一下10685
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderBottomWidth": 0.5,
+          "borderColor": "#c9c9c9",
+          "flexDirection": "row",
+          "marginLeft": 16,
+          "paddingBottom": 13,
+          "paddingRight": 16,
+          "paddingTop": 13,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1565832782348image-0e7b1241-7691-491a-9719-1e76382bdcde.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 3,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontSize": 17,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            22231
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 13,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            08/16/19, 15:33
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "marginTop": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 14,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            挺好吃的
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderBottomWidth": 0.5,
+          "borderColor": "#c9c9c9",
+          "flexDirection": "row",
+          "marginLeft": 16,
+          "paddingBottom": 13,
+          "paddingRight": 16,
+          "paddingTop": 13,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1565832782348image-0e7b1241-7691-491a-9719-1e76382bdcde.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 3,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontSize": 17,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            22231
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 13,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            08/15/19, 13:34
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "marginTop": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 14,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            222
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderBottomWidth": 0.5,
+          "borderColor": "#c9c9c9",
+          "flexDirection": "row",
+          "marginLeft": 16,
+          "paddingBottom": 13,
+          "paddingRight": 16,
+          "paddingTop": 13,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1564548445287IMG_0003.JPG",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 3,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontSize": 17,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            2223
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 13,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            08/09/19, 13:59
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "marginTop": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 14,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            Enough and good.
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderBottomWidth": 0.5,
+          "borderColor": "#c9c9c9",
+          "flexDirection": "row",
+          "marginLeft": 16,
+          "paddingBottom": 13,
+          "paddingRight": 16,
+          "paddingTop": 13,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1564548445287IMG_0003.JPG",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 28,
+              "height": 56,
+              "width": 56,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "flex": 3,
+            },
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "fontSize": 17,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            2223
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 13,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            08/01/19, 13:41
+          </Text>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "alignItems": "center",
+                  "flexDirection": "row",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "color": undefined,
+                    "fontSize": 12,
+                  },
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#000",
+                      "fontSize": 30,
+                    },
+                    Object {
+                      "color": "#ff6933",
+                      "fontSize": 12,
+                      "lineHeight": 16,
+                    },
+                  ],
+                  Object {
+                    "fontFamily": "FontAwesome",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                  Object {},
+                ]
+              }
+              type="FontAwesome"
+            >
+              
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "marginTop": 5,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#000",
+                  "fontFamily": "System",
+                  "fontSize": 16,
+                },
+                Object {
+                  "color": "#6f6e6e",
+                  "fontSize": 12,
+                },
+                Object {
+                  "fontSize": 14,
+                },
+              ]
+            }
+            uppercase={false}
+          >
+            Good Tea
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>,
+]
+`;
+
+exports[`LoadingOpacity renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {
+        "backgroundColor": "#eee",
+        "height": "100%",
+        "justifyContent": "center",
+        "left": 0,
+        "opacity": 0.6,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": 999999,
+      },
+    ]
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#ff6933"
+    hidesWhenStopped={true}
+    size="large"
+    style={
+      Array [
+        Object {
+          "height": 80,
+        },
+        Object {
+          "marginTop": -50,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`MyText renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#000",
+        "fontFamily": "System",
+        "fontSize": 16,
+      },
+      Object {
+        "color": "#6f6e6e",
+        "fontSize": 12,
+      },
+      undefined,
+    ]
+  }
+  uppercase={false}
+>
+  123
+</Text>
+`;
+
+exports[`PhotoSwiper renders correctly 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "flex": 1,
+        "position": "relative",
+      },
+      undefined,
+    ]
+  }
+>
+  <RCTScrollView
+    automaticallyAdjustContentInsets={false}
+    autoplay={true}
+    autoplayDirection={true}
+    autoplayTimeout={2.5}
+    bounces={false}
+    contentContainerStyle={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+        },
+        Object {
+          "height": 260,
+          "marginTop": 5,
+        },
+      ]
+    }
+    contentOffset={
+      Object {
+        "x": 0,
+      }
+    }
+    disableNextButton={false}
+    horizontal={true}
+    index={0}
+    loadMinimal={false}
+    loadMinimalSize={1}
+    loop={true}
+    onIndexChanged={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    pagingEnabled={true}
+    removeClippedSubviews={true}
+    scrollsToTop={false}
+    showsButtons={false}
+    showsHorizontalScrollIndicator={false}
+    showsPagination={true}
+    showsVerticalScrollIndicator={false}
+  >
+    <View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951994857c3.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951735428r1.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951160737c1.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951175371r3.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951201942c4.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951290431c2.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951976774sheep.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951994857c3.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951735428r1.jpg",
+            }
+          }
+          style={
+            Object {
+              "alignItems": "center",
+              "borderRadius": 5,
+              "height": 240,
+              "width": 300,
+            }
+          }
+        />
+      </View>
+    </View>
+  </RCTScrollView>
+  <View
+    pointerEvents="none"
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "bottom": 25,
+          "flex": 1,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+        },
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#007aff",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "rgba(0,0,0,.2)",
+            "borderRadius": 4,
+            "height": 8,
+            "marginBottom": 3,
+            "marginLeft": 3,
+            "marginRight": 3,
+            "marginTop": 3,
+            "width": 8,
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+</View>
+`;
+
+exports[`Star renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#000",
+          "fontFamily": "System",
+          "fontSize": 16,
+        },
+        Object {
+          "fontSize": 10,
+        },
+      ]
+    }
+    uppercase={false}
+  >
+     
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+        ],
+        Object {
+          "fontFamily": "FontAwesome",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    type="FontAwesome"
+  >
+    
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+        ],
+        Object {
+          "fontFamily": "FontAwesome",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    type="FontAwesome"
+  >
+    
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+        ],
+        Object {
+          "fontFamily": "FontAwesome",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    type="FontAwesome"
+  >
+    
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+        ],
+        Object {
+          "fontFamily": "FontAwesome",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    type="FontAwesome"
+  >
+    
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+          Object {
+            "color": "#000",
+            "fontSize": 30,
+          },
+        ],
+        Object {
+          "fontFamily": "FontAwesome",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+    type="FontAwesome"
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`StoreListMap renders correctly 1`] = `
+Array [
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          },
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "20%",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/15593529269871.JPG",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 70,
+              "width": 70,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "76%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "fontSize": 17,
+                "fontWeight": "400",
+              },
+            ]
+          }
+          uppercase={false}
+        >
+           
+          宇森国际留学移民
+           
+        </Text>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "68%",
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {},
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "System",
+                      "fontSize": 16,
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ]
+                }
+                uppercase={false}
+              >
+                 
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+               
+              已优惠
+              : 
+              20% 优惠
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+              Level 7 43 High Street, Auckland, New Zealand
+               
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "25%",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              总售
+              : 
+              5
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              &lt;30km
+               
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          },
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "20%",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561951735428r1.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 70,
+              "width": 70,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "76%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "fontSize": 17,
+                "fontWeight": "400",
+              },
+            ]
+          }
+          uppercase={false}
+        >
+           
+          皇后街饭店
+           
+        </Text>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "68%",
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {},
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "System",
+                      "fontSize": 16,
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ]
+                }
+                uppercase={false}
+              >
+                 
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+               
+              已优惠
+              : 
+              1% 优惠
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+              21 Queen Street, Auckland, New Zealand
+               
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "25%",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              总售
+              : 
+              48
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              &lt;30km
+               
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          },
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "20%",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/15614245875211468292489320114.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 70,
+              "width": 70,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "76%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "fontSize": 17,
+                "fontWeight": "400",
+              },
+            ]
+          }
+          uppercase={false}
+        >
+           
+          天空塔下的小餐馆
+           
+        </Text>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "68%",
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {},
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "System",
+                      "fontSize": 16,
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ]
+                }
+                uppercase={false}
+              >
+                 
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+               
+              已优惠
+              : 
+              20% 优惠
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+              87 Federal Street, Auckland, New Zealand
+               
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "25%",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              总售
+              : 
+              8
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              &lt;30km
+               
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          },
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "20%",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/15614442006771-1F309134U6212.JPG",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 70,
+              "width": 70,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "76%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "fontSize": 17,
+                "fontWeight": "400",
+              },
+            ]
+          }
+          uppercase={false}
+        >
+           
+          步什药品
+           
+        </Text>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "68%",
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {},
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "System",
+                      "fontSize": 16,
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ]
+                }
+                uppercase={false}
+              >
+                 
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+               
+              已优惠
+              : 
+              10% 优惠
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+              75 Mandival Avenue, Flat Bush, Auckland, New Zealand
+               
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "25%",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              总售
+              : 
+              6
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              &lt;30km
+               
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    isTVSelectable={true}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <View
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderBottomWidth": 0.5,
+            "borderColor": "#c9c9c9",
+            "flexDirection": "row",
+            "marginLeft": 16,
+            "paddingBottom": 13,
+            "paddingRight": 16,
+            "paddingTop": 13,
+          },
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "20%",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "uri": "https://app.pay-cheap.com:3333/uploads/1561512286693trip.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 70,
+              "width": 70,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Object {
+              "width": "76%",
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#000",
+                "fontFamily": "System",
+                "fontSize": 16,
+              },
+              Object {
+                "fontSize": 17,
+                "fontWeight": "400",
+              },
+            ]
+          }
+          uppercase={false}
+        >
+           
+          啃的鸡旅行
+           
+        </Text>
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "flex": 1,
+                "flexDirection": "row",
+                "justifyContent": "space-between",
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "68%",
+                },
+              ]
+            }
+          >
+            <View
+              style={
+                Array [
+                  Object {},
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                  },
+                ]
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "color": "#000",
+                      "fontFamily": "System",
+                      "fontSize": 16,
+                    },
+                    Object {
+                      "fontSize": 10,
+                    },
+                  ]
+                }
+                uppercase={false}
+              >
+                 
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": undefined,
+                      "fontSize": 12,
+                    },
+                    Array [
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#000",
+                        "fontSize": 30,
+                      },
+                      Object {
+                        "color": "#ff6933",
+                        "fontSize": 12,
+                        "lineHeight": 15,
+                      },
+                    ],
+                    Object {
+                      "fontFamily": "FontAwesome",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+                type="FontAwesome"
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+               
+              已优惠
+              : 
+              3% 优惠
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  Object {
+                    "fontSize": 10,
+                  },
+                ]
+              }
+              uppercase={false}
+            >
+               
+              11 McDonald Street, Sandringham, Auckland, New Zealand
+               
+            </Text>
+          </View>
+          <View
+            style={
+              Array [
+                Object {},
+                Object {
+                  "width": "25%",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              总售
+              : 
+              4
+               
+            </Text>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "System",
+                    "fontSize": 16,
+                  },
+                  Object {
+                    "color": "#6f6e6e",
+                    "fontSize": 12,
+                  },
+                  undefined,
+                ]
+              }
+              uppercase={false}
+            >
+              &lt;30km
+               
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>,
+]
+`;
+
+exports[`Swiper 1`] = `
+<View
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "transparent",
+        "flex": 1,
+        "position": "relative",
+      },
+      undefined,
+    ]
+  }
+>
+  <RCTScrollView
+    automaticallyAdjustContentInsets={false}
+    autoplay={true}
+    autoplayDirection={true}
+    autoplayTimeout={2.5}
+    bounces={false}
+    contentContainerStyle={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+        },
+        undefined,
+      ]
+    }
+    contentOffset={
+      Object {
+        "x": 0,
+      }
+    }
+    disableNextButton={false}
+    horizontal={true}
+    index={0}
+    loadMinimal={false}
+    loadMinimalSize={1}
+    loop={true}
+    onIndexChanged={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    pagingEnabled={true}
+    removeClippedSubviews={true}
+    scrollsToTop={false}
+    showsButtons={false}
+    showsHorizontalScrollIndicator={false}
+    showsPagination={false}
+    showsVerticalScrollIndicator={false}
+  >
+    <View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p3.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p0.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p1.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p2.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p3.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "height": 1334,
+              "width": 750,
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../src/static/img/p0.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 5,
+              "height": 156.525,
+              "width": 675,
+            }
+          }
+        />
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

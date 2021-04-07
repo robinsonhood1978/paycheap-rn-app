@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pay Cheap</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.12</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>wxpay</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wx660ef07ece9f73b3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>alipay</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>alipay2088331448074211</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.12</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>alipay</string>
+		<string>weixin</string>
+		<string>wechat</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Allow the bluetooth to find the frinds around.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Allow the local calendar the modify the timestamp.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Paycheap requires the camera privilege to Scan the merchant's QRCode to get the voucher.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Allow to Get Location and push the specific merchants information</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Allow to Get Location and push the specific merchants information</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Allow to Get Location and push the specific merchants information</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow to Get Location and push the specific merchants information</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Use Mic</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Use the motion to apply motion function.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Select Your Avatar.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Allow the speech recognition to modify your words and speed the input.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Roboto_medium.ttf</string>
+		<string>Roboto.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Use the music to apply the background music.</string>
+</dict>
+</plist>
